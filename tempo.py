@@ -1,3 +1,4 @@
+#PYTHON 2.7
 import time 
 import pyscreenshot as ImageGrab
 import datetime
